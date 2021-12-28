@@ -1,9 +1,17 @@
 Prima prova in git (solo locale).
 Seguo guida: https://www.enappi.com/linux/git-guida-passo-passo/
 -----------------------------------------------
-Faccio un solo programma C "hello world"
+Poi ho segutio video youtube per collegare cartella locale git con ghithub:
+https://www.youtube.com/watch?v=0RPJg6fF9UA
 ----------------------------------------
 Comandi eseguiti:
 git init
 git status
+git push origin master
+git remote add origin https://github.com/fabriziosacco/prove.git
+git branch -M main
+git push -u origin main
+
+poi mi chiede login e passwd github ed e' funzionato!
+
 

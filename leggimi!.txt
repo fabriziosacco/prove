@@ -1,10 +1,12 @@
 Prima prova in git (solo locale).
 Seguo guida: https://www.enappi.com/linux/git-guida-passo-passo/
 -----------------------------------------------
-Poi ho segutio video youtube per collegare cartella locale git con ghithub:
+Poi ho seguitoo video youtube per collegare cartella locale git con ghithub:
 https://www.youtube.com/watch?v=0RPJg6fF9UA
 ----------------------------------------
 Comandi eseguiti:
+(creato prima new repository su github di nome prova)
+(ho poi prelevato dalla seconda finestra i comandi per git in locale)
 git init
 git status
 git push origin master
@@ -13,5 +15,12 @@ git branch -M main
 git push -u origin main
 
 poi mi chiede login e passwd github ed e' funzionato!
+
+fra l'altro poi ho aggiornato il file da github via web
+e ho riscaricato in locale i cambiamenti con il comando:
+
+git pull origin main
+
+
 
 

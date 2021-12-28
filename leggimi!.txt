@@ -1,0 +1,9 @@
+Prima prova in git (solo locale).
+Seguo guida: https://www.enappi.com/linux/git-guida-passo-passo/
+-----------------------------------------------
+Faccio un solo programma C "hello world"
+----------------------------------------
+Comandi eseguiti:
+git init
+git status
+

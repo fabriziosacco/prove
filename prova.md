@@ -26,7 +26,7 @@ Compila on line [Compiler]
 
 ```c
 
-/* Ecco un esempio di I/O in C Compila:[https://aoc.csed22.com/]*/
+/* Ecco un esempio di I/O in C OnLnCpp:[https://aoc.csed22.com/]*/
 
 #include <stdio.h>
 int main()

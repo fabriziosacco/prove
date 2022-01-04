@@ -16,15 +16,18 @@ I primi compilatori C++ erano dei traduttori da C++ a C
 
 Il C++ oggi contiene tutti gli elementi del C ANSI
 
+Compila on line [Compiler]
 
 [Fabrizio Sacco]: http://fabriziosacco.it
 [Stroustrup]: https://www.stroustrup.com/
-
+[Compiler]: https://aoc.csed22.com/
 ## Primo programma in C++
 
+
 ```c
-/* Ecco un esempio di I/O in C */
-https://aoc.csed22.com/
+
+/* Ecco un esempio di I/O in C Compila:[https://aoc.csed22.com/]*/
+
 #include <stdio.h>
 int main()
 {

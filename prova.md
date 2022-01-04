@@ -24,6 +24,7 @@ Il C++ oggi contiene tutti gli elementi del C ANSI
 
 ```c
 /* Ecco un esempio di I/O in C */
+https://aoc.csed22.com/
 #include <stdio.h>
 int main()
 {

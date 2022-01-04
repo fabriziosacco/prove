@@ -42,7 +42,7 @@ int main() {
 	int i,quante;
 	FILE *fd;
 	if ((fd = fopen("password.txt","w"))==0)
-		printf("\nNon riesco ad aprire in scruttura il file password.txt\n\7"),exit(0);
+		printf("\nNon riesco ad aprire in scrittura il file password.txt\n\7"),exit(0);
 
 	printf("Password di base (Almeno 8 caratteri)--->");
 	gets(paswd);

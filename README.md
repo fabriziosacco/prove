@@ -3,6 +3,6 @@ Per ora ci sono un po' di prove:
 
 leggimi.txt --> per comandi git
 
-password.c  --> prova carico
+password.c  -->programma utile per chi ... si scorda le password!!!
 
-Lucidi-Cpp2022.txt --> prove di riscrittura Lucidi in markdown
+
